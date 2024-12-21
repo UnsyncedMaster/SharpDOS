@@ -1,0 +1,14 @@
+C:\Users\Gebruiker\source\repos\SharpDOS\SharpDOS\bin\Debug\net8.0\SharpDOS.exe
+C:\Users\Gebruiker\source\repos\SharpDOS\SharpDOS\bin\Debug\net8.0\SharpDOS.deps.json
+C:\Users\Gebruiker\source\repos\SharpDOS\SharpDOS\bin\Debug\net8.0\SharpDOS.runtimeconfig.json
+C:\Users\Gebruiker\source\repos\SharpDOS\SharpDOS\bin\Debug\net8.0\SharpDOS.dll
+C:\Users\Gebruiker\source\repos\SharpDOS\SharpDOS\bin\Debug\net8.0\SharpDOS.pdb
+C:\Users\Gebruiker\source\repos\SharpDOS\SharpDOS\obj\Debug\net8.0\SharpDOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\source\repos\SharpDOS\SharpDOS\obj\Debug\net8.0\SharpDOS.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\SharpDOS\SharpDOS\obj\Debug\net8.0\SharpDOS.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\SharpDOS\SharpDOS\obj\Debug\net8.0\SharpDOS.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\SharpDOS\SharpDOS\obj\Debug\net8.0\SharpDOS.dll
+C:\Users\Gebruiker\source\repos\SharpDOS\SharpDOS\obj\Debug\net8.0\refint\SharpDOS.dll
+C:\Users\Gebruiker\source\repos\SharpDOS\SharpDOS\obj\Debug\net8.0\SharpDOS.pdb
+C:\Users\Gebruiker\source\repos\SharpDOS\SharpDOS\obj\Debug\net8.0\SharpDOS.genruntimeconfig.cache
+C:\Users\Gebruiker\source\repos\SharpDOS\SharpDOS\obj\Debug\net8.0\ref\SharpDOS.dll
